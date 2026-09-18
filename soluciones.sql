@@ -1,7 +1,7 @@
 -- ══════════════════════════════════════════
 -- MiniStore — Soluciones con Outer JOINs
 -- Autor: Felipe Cardona
--- Fecha: 19/9/2026
+-- Fecha: 18/9/2026
 -- ══════════════════════════════════════════
 
 -- ── CONSULTA 1: LEFT JOIN ─────────────────
